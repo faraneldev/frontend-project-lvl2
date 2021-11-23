@@ -1,0 +1,32 @@
+{
+  "name": "frontend-project-lvl2",
+  "description": "[![Actions Status](https://github.com/faraneldev/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/faraneldev/frontend-project-lvl2/actions)",
+  "version": "0.1.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "genDiff": "bin/genDiff.js"
+  },
+  "dependencies": {
+    "commander": "^8.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faraneldev/frontend-project-lvl2.git"
+  },
+  "author": "faraneldev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faraneldev/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/faraneldev/frontend-project-lvl2#readme"
+}
